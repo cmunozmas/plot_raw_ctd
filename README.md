@@ -3,7 +3,7 @@ The plot_socib_rv_adcp is a set of python scripts and functions developed at SOC
 
 ## Prerequisites:
 
-    See requirements file for extralibraries needed.
+    See requirements file for external libraries needed.
    
 ## The following features are already implemented in the toolbox:
 
